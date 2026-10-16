@@ -1,0 +1,38 @@
+body {
+    background-color:black;
+    font-family:'Courier New', Courier, monospace;
+    color:blue;
+}
+div {
+    font-family: 'Courier New', Courier, monospace;
+    color:aliceblue;
+}
+h1 {
+    font-family:'Verdana','cursive','Haettenschweiler', 'Arial Narrow Bold', 'sans-serif', 'Courier', 'monospace', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+            background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDosxyEmQ6MgK27JxBkFm1hdcXfG4uZZxgrcmSY3eYDw&s=10);
+            background-size: cover;
+        }
+        footer {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color:white;
+        }
+        .col {
+            border-radius: 50px;
+        }
+.container .row {
+    gap:10px;
+}
+.col {
+    box-shadow: 10px 10px 5px 0px rgba(26,63,104,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(26,63,104,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(26,63,104,0.75);
+}
+.container-fluid {
+    flex-direction: row;
+    border-radius: 50px; box-shadow: 11px 19px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 11px 19px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 11px 19px 5px 0px rgba(0,0,0,0.75);
+}
